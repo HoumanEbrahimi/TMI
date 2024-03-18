@@ -1,8 +1,8 @@
 {
-  "name": "trustworthy_machine_intelligence_website",
-  "homepage": "https://HoumanEbrahimi.github.io/trustworthy_machine_intelligence_website",
+  "name": "trustworthy_machine_intelligence_website_2",
+  "homepage": "https://HoumanEbrahimi.github.io/TMI",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emailjs/browser": "^4.2.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
